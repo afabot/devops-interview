@@ -164,7 +164,6 @@ lastLetters test
 - Use iptables to close open ports or stop all unwanted network services 
 - Separate Disk Partitions
 - Logging and Auditing : Manage Logging and Auditing / Monitor Suspicious Log Messages With Logwatch 
-- 
 
 11 - multipleCopies.rb
 ```
